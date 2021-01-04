@@ -1,0 +1,22 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 2%;
+    background-color: #ffff;
+    position: sticky;
+}
+.navbar_logo {
+    flex: 0.5;
+}
+.navbar_menu {
+    flex: 0.5;
+    display: flex;
+    justify-content: space-evenly;
+}
+.navbar_menu > h5 {
+    cursor: pointer;
+}
+.navbar_menu > h5:hover {
+    color: #009587;
+    border-bottom: 1px solid #009587;
+}
