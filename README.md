@@ -1,7 +1,7 @@
 <h1>Furniture Store Web Application</h1>
 <h2>About the website</h2><br/>
 <p>This is a website to find and buy all necessary furnitures. This project is currently under development...</p>
-<p>The website is live on  </p>
+<p>The website is live on https://furniture-101.netlify.app/ </p>
 <h2>Preview</h2><br/>
 
 <h2>Technologies used</h2>
